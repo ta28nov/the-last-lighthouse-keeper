@@ -1,0 +1,2 @@
+# the-last-lighthouse-keeper
+## 📖 Giới thiệu  **The Last Lighthouse Keeper** là một trải nghiệm kể chuyện tương tác đột phá, kể về hành trình 45 năm của người gác đèn biển cuối cùng tại Việt Nam. Qua scroll animation độc đáo và thiết kế cinematic, website đưa người xem vào cuộc hành trình cảm động về sự cô đơn, cống hiến và tình yêu biển cả.
