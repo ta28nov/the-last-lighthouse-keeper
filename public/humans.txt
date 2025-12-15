@@ -1,0 +1,17 @@
+/* TEAM */
+Developer: Nguyễn Ngọc Tuấn Anh
+Contact: tiphong05@gmail.com
+GitHub: ta28nov
+Location: Vietnam
+
+/* SITE */
+Last update: 2025/12/15
+Standards: HTML5, CSS3, JavaScript ES6+
+Components: Next.js 16, React 19, TypeScript
+Software: VS Code, Git
+
+/* THANKS */
+Next.js team for the amazing framework
+Vercel for hosting
+Framer Motion for smooth animations
+All open-source contributors

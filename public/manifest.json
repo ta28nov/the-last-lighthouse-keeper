@@ -1,0 +1,23 @@
+{
+  "name": "The Last Lighthouse Keeper",
+  "short_name": "Lighthouse",
+  "description": "45 năm một mình giữa biển khơi — Câu chuyện người gác đèn cuối cùng",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0c0d12",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["entertainment", "lifestyle", "books"],
+  "lang": "vi",
+  "dir": "ltr",
+  "scope": "/",
+  "prefer_related_applications": false
+}

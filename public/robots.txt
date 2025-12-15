@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://the-last-lighthouse-keeper-ta28nov.vercel.app/sitemap.xml
+
+# Disallow admin and api routes
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+
+# Allow all images
+Allow: /public/
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.webp$
+
+# Crawl-delay
+Crawl-delay: 0

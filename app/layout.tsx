@@ -69,13 +69,28 @@ export const metadata: Metadata = {
     type: "website",
     locale: "vi_VN",
     siteName: "The Last Lighthouse Keeper",
+    images: [
+      {
+        url: "/og-image.jpg",
+        width: 1200,
+        height: 630,
+        alt: "The Last Lighthouse Keeper - Người Gác Đèn Cuối Cùng",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "The Last Lighthouse Keeper",
     description: "45 năm một mình giữa biển khơi — Câu chuyện người gác đèn cuối cùng",
     creator: "@tuananh",
+    images: ["/og-image.jpg"],
   },
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+    apple: "/favicon.ico",
+  },
+  manifest: "/manifest.json",
   category: "Interactive Story",
 }
 
